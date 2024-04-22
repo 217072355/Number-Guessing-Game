@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1705583743 source:c:\users\mlezman\desktop\c++ codsfot internship\guessnumbergame\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
